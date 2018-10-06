@@ -1,0 +1,17 @@
+body{
+    background-image: url(http://partyinstant.biz/wp-content/uploads/parser/Work-Desk-Background-1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#submit {
+    background: blue;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
